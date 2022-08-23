@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>227e932097a11110331edb24a253af95</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="http_connection">
+    <http_connection action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_scope display_value="Rebrickable Spoke">f02887a897211110331edb24a253af8d</app_scope>
+        <application display_value="ALL">35aa573fd7802200bdbaee5b5e610375</application>
+        <base_path/>
+        <capabilities/>
+        <connection_alias display_value="x_853225_rebrickab.Rebrickable">a01f1f2097a11110331edb24a253af04</connection_alias>
+        <connection_retries>0</connection_retries>
+        <connection_timeout/>
+        <connection_url>https://rebrickable.com/api/v3</connection_url>
+        <credential/>
+        <extended_attributes/>
+        <host>rebrickable.com</host>
+        <mid_selection>auto_select</mid_selection>
+        <mid_server/>
+        <mutual_auth>false</mutual_auth>
+        <name>Rebrickable v3</name>
+        <order>100</order>
+        <port/>
+        <protocol>https</protocol>
+        <protocol_profile/>
+        <sys_class_name>http_connection</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 11:01:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>227e932097a11110331edb24a253af95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 11:01:35</sys_updated_on>
+        <url_builder>false</url_builder>
+        <use_mid>false</use_mid>
+    </http_connection>
+    <sys_variable_value action="delete_multiple" query="document_key=227e932097a11110331edb24a253af95"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 12:09:30</sys_created_on>
+        <sys_id>fafeef6097a11110331edb24a253af71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rebrickable v3</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_853225_rebrickab">f02887a897211110331edb24a253af8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">f02887a897211110331edb24a253af8d</sys_scope>
+        <sys_update_name>sys_metadata_link_fafeef6097a11110331edb24a253af71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 12:09:30</sys_updated_on>
+        <tablename>sys_connection</tablename>
+    </sys_metadata_link>
+</record_update>
